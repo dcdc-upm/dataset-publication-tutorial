@@ -6,7 +6,7 @@ As a case study, we reused the dataset [Traffic Accidents in the City of Madrid]
 From this resource, we created a derived dataset: **Fatal Traffic Accidents in the City of Madrid (2024)**, obtained by filtering all accidents that did not result in at least one fatality.  
 
 The tutorial, available in the `src` folder, provides a hands-on guide on how to:  
-- Document a repository content according to standards and **FAIR principles** (Findable, Accessible, Interoperable, Reusable).  
+- Document a dataset according to standards and **FAIR principles** (Findable, Accessible, Interoperable, Reusable).  
 - Publish the dataset in open digital repositories.  
 
 Supporting documentation is provided in the `docs` folder and should be reviewed before running the scripts.  
