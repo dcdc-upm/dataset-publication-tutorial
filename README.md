@@ -24,9 +24,6 @@ To execute the tutorial you will need:
 conda env create -f environment.yml
 ```
 
-## License
-Este repositorio y todo el material que contiene está bajo la licencia CC BY-NC 4.0, para más información consultar el archivo LICENSE.  However, the dataset is distributed under the license terms of the [City of Madrid Open Data Portal](https://datos.madrid.es/egob/catalogo/aviso-legal).
-
 ## License  
 This tutorial repository (code, documentation, instructions) is governed by [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
 
