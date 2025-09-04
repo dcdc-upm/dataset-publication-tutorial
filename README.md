@@ -2,9 +2,10 @@
 
 This repository contains a **tutorial on dataset publication following best practices for documentation, metadata, and reproducibility**. As a case study, we reused the dataset [Traffic Accidents in the City of Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default), published by the **City Council of Madrid**, specifically using the records for the year **2024**.  
 
-From this resource, we created a derived dataset: **Fatal Traffic Accidents in the City of Madrid (2024)**, obtained by filtering all accidents that did not result in at least one fatality. The transformed dataset has been published on two platforms as a didactic example:  
-- [Zenodo](https://doi.org/10.5281/zenodo.17018859)  
-- [Hugging Face](https://huggingface.co/datasets/iguillenp/Fatal_traffic_accidents_in_the_city_of_Madrid_during_2024_Dataset_Publication_Tutorial)
+From this resource, we created a derived dataset: **Fatal Traffic Accidents in the City of Madrid (2024)**, obtained by filtering all accidents that did not result in at least one fatality. The transformed dataset has been published on three platforms as a didactic example:  
+- [Zenodo](https://doi.org/10.5281/zenodo.17054579)  
+- [Hugging Face](https://huggingface.co/datasets/iguillenp/fatal_traffic_accidents_in_the_city_of_madrid_2024)
+- [Kaggle](https://www.kaggle.com/datasets/ibaiguillenpacho/fatal-traffic-accidents-in-the-city-of-madrid-2024/)
 
 > [!WARNING]
 > Publishing the same dataset in multiple repositories is generally not recommended in real-world practice, but is done here for educational purposes.
