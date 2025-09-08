@@ -4,8 +4,8 @@ This repository contains a **tutorial on dataset publication following best prac
 
 From this resource, we created a derived dataset: **Fatal Traffic Accidents in the City of Madrid (2024)**, obtained by filtering all accidents that did not result in at least one fatality. The transformed dataset has been published on three platforms as a didactic example:  
 - [Zenodo](https://doi.org/10.5281/zenodo.17054802)  
-- [Hugging Face](https://huggingface.co/datasets/dcdc-upm/fatal_traffic_accidents_in_the_city_of_madrid_2024)
-- [Kaggle](https://www.kaggle.com/datasets/ibaiguillenpacho/fatal-traffic-accidents-in-the-city-of-madrid-2024/)
+- [Hugging Face](https://doi.org/10.57967/hf/6437)
+- [Kaggle](https://doi.org/10.34740/kaggle/dsv/12960686)
 
 > [!WARNING]
 > Publishing the same dataset in multiple repositories is generally not recommended in real-world practice, but is done here for educational purposes.
